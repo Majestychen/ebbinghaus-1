@@ -1,0 +1,2 @@
+# ebbinghaus
+ebbinghaus forgetting curve
